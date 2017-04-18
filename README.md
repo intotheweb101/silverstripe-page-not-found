@@ -1,0 +1,1 @@
+# silverstripe-page-not-found
